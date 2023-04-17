@@ -1,4 +1,4 @@
-![Astro](https://user-images.githubusercontent.com/2342458/230581995-206679d5-c153-4f1f-abb4-fd74df9dbbf0.png)
+![Leaf](https://user-images.githubusercontent.com/2342458/232437139-4db0eb0f-7eb7-4346-99f9-168e6cfa62ab.png)
 # Kinsta - Hello World - Leaf PHP 🚀
 
 An example of how to deploy a Leaf PHP app on Kinsta App Hosting services.
