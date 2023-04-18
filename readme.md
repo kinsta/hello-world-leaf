@@ -12,7 +12,7 @@ Kinsta is a developer-centric cloud host / PaaS. We’re striving to make it eas
 
 ## Dependency Management
 
-Kinsta automatically installs dependencies defined in your `package.json` file, during the deployment process.
+Kinsta automatically installs dependencies defined in your `composer.json` file, during the deployment process.
 
 ## Web Server Setup
 
