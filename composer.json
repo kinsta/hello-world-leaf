@@ -1,6 +1,6 @@
 {
     "require": {
-        "php: "8.2",
+        "php": "8.2",
         "leafs/leaf": "^3.0"
     }
 }
